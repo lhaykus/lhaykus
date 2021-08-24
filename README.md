@@ -35,6 +35,10 @@
     <li> Sequelize </li>
     <li> MongoDb </li>
     <li> Mongoose </li>
+   <li> VS Code </li>
+   <li> Insomnia </li>
+   <li> Workbench </li>
+   <li> Postman </li>
   
   <p align='center'>
   <img width="500" height="300" src="https://juniusjohnson.files.wordpress.com/2014/10/tumblr_lqs0lrkm4f1r21cyxo2_500.gif?w=392">
