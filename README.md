@@ -15,8 +15,8 @@
 <br>
 <br>
 
-<p align='left'> 🌱 I’m currently learning Mongoose DB </p>
-<p> ⚡ Favorite Technoliges: Node.js, mySQL, sequelizse, Mongoose </p>
+<h4 align='left'> 🌱 I’m currently learning Mongoose DB </h4>
+<h4> ⚡ Favorite Technoliges: Node.js, mySQL, sequelizse, Mongoose </h4>
 
 
 <br>
@@ -36,12 +36,11 @@
     <li> MongoDb </li>
     <li> Mongoose </li>
   
-  <p align="center">
+  <p align='center'>
   <img width="500" height="300" src="https://juniusjohnson.files.wordpress.com/2014/10/tumblr_lqs0lrkm4f1r21cyxo2_500.gif?w=392">
 </p>
 
 </ul>
-
 
 
 
