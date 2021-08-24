@@ -40,6 +40,11 @@
    <li> Workbench </li>
    <li> Postman </li>
   
+
+  <p align='center'>
+  <img width="500" height="300" src="https://juniusjohnson.files.wordpress.com/2014/10/tumblr_lqs0lrkm4f1r21cyxo2_500.gif?w=392">
+</p>
+
   <br>
   
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -55,11 +60,9 @@
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
   
+    
   
-  <p align='center'>
-  <img width="500" height="300" src="https://juniusjohnson.files.wordpress.com/2014/10/tumblr_lqs0lrkm4f1r21cyxo2_500.gif?w=392">
-</p>
-
+  
 </ul>
 
 
