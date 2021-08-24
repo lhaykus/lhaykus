@@ -55,7 +55,7 @@
 
 ## Contact Me
 
-[![image](https://logodix.com/logo/79688.ico)](https://github.com/lhaykus)
+[![image](https://logodix.com/logo/79688.ico)](https://www.linkedin.com/in/loryn-haykus-490957136/)
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
