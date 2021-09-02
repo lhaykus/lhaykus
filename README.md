@@ -16,7 +16,7 @@
 <br>
 
 <h4 align='left'> 🌱 I’m currently learning React </h4>
-<h4> ⚡ Favorite Technoliges: Node.js, mySQL, sequelizse, Mongoose </h4>
+<h4> ⚡ Favorite Technoliges: Node.js, mySQL, sequelize, Mongoose </h4>
 
 
 <br>
