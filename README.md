@@ -41,6 +41,7 @@
     <li> Sequelize </li>
     <li> MongoDb </li>
     <li> Mongoose </li>
+    <li> React </>
    <li> VS Code </li>
    <li> Insomnia </li>
    <li> Workbench </li>
