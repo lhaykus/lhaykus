@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<h4 align='left'> 🌱 I’m currently learning MERN </h4>
+<h4 align='left'> 🌱 I’m currently learning Python </h4>
 <h4> ⚡ Favorite Technoliges: React, Node.js, mySQL, sequelize, Mongoose </h4>
 
 
