@@ -4,7 +4,7 @@
   <img width="500" height="300" src="https://media2.giphy.com/media/107gPMgIBBleA8/giphy.gif">
 </p>
 
-<h3 align='center'> I am Loryn Haykus and I am an up-and-coming full stack developer who has a passion for bringing data to life! </h3>
+<h3 align='center'> I am Loryn Haykus and I am a full stack developer who has a passion for bringing data to life! </h3>
 
 
 
